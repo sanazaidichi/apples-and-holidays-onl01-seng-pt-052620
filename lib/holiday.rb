@@ -89,9 +89,9 @@ holiday_hash.each do |season, holiday|
   holiday.each do |holiday, array| 
     if array.include?("BBQ")
       new_array << holiday
-        end 
-      end
-  end 
+    end 
+  end
+    end 
   new_array
 end
 

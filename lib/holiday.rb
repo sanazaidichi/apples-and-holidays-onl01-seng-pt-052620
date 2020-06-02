@@ -33,7 +33,7 @@ holiday_hash[:winter][:Christmas] << supply
 holiday_hash[:winter][:new_years] << supply
 
 holiday_hash[:winter].each do |holiday,array|
-array.push(supply) 
+  array.push(supply) 
 
   end 
 

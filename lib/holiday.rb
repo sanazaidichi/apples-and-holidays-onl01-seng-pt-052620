@@ -91,7 +91,7 @@ new_array = []
         new_array << holiday
       end 
     end
-end 
+  end 
   new_array
 end
 

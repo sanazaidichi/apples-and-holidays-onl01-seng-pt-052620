@@ -32,10 +32,9 @@ holiday_hash[:winter][:new_years] << supply
 
   holiday_hash[:winter].each do |holiday, array|
   array << supply
-  
   end 
 
-end
+
 
 
 def add_supply_to_memorial_day(holiday_hash, supply)
